@@ -4,9 +4,9 @@
     "slug": "Domino",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/domino.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/domino.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
